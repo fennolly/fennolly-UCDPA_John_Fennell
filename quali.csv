@@ -1,22 +1,22 @@
-Pos,Driver,Average_Gap,Car
-15,George Russell,-0.371s,Williams       
-19,Mick Schumacher,-0.908s,Haas 
-9,Pierre Gasly,-0.603s,AlphaTauri        
-1,Max Verstappen,-0.528s,Red Bull 
-2,Lewis Hamilton,-0.347s,Mercedes
-18,Antonio Giovinazzi,-0.37s,Alfa Romeo
-6,Lando Norris,0.536s,McLaren      
-12,Sebastian Vettel,-2.188s,Aston Martin         
-7,Charles Leclerc,-1.185s,Ferrari
-10,Fernando Alonso,0.369s,Alpine Renault
-11,Esteban Ocon,-0.369s,Alpine Renault
-5,Carlos Sainz Jnr,1.185s,Ferrari
-8,Daniel Ricciardo,-0.536s,McLaren Mercedes	
-13,Lance Stroll,2.188s,Aston Martin         
-16,Kimi Raikkonen,0.273s,Alfa Romeo Racing
-3,Valtteri Bottas,0.347s,Mercedes
-17,Nicholas Latifi,0.371s,Williams       
-4,Sergio Perez,0.528s,Red Bull       
-14,Yuki Tsunoda,0.603s,AlphaTauri       
-21,Nikita Mazepin,0.908s,Haas 
-20,Robert Kubica,1.292s,Alfa Romeo 
+Pos,Driver,Average,Car
+15,George Russell,-0.371,Williams       
+19,Mick Schumacher,-0.908,Haas 
+9,Pierre Gasly,-0.603,AlphaTauri        
+1,Max Verstappen,-0.528,Red Bull 
+2,Lewis Hamilton,-0.347,Mercedes
+18,Antonio Giovinazzi,-0.37,Alfa Romeo
+6,Lando Norris,0.536,McLaren      
+12,Sebastian Vettel,-2.188,Aston Martin         
+7,Charles Leclerc,-1.185,Ferrari
+10,Fernando Alonso,0.369,Alpine Renault
+11,Esteban Ocon,-0.369,Alpine Renault
+5,Carlos Sainz Jnr,1.185,Ferrari
+8,Daniel Ricciardo,-0.536,McLaren Mercedes	
+13,Lance Stroll,2.188,Aston Martin         
+16,Kimi Raikkonen,0.273,Alfa Romeo Racing
+3,Valtteri Bottas,0.347,Mercedes
+17,Nicholas Latifi,0.371,Williams       
+4,Sergio Perez,0.528,Red Bull       
+14,Yuki Tsunoda,0.603,AlphaTauri       
+21,Nikita Mazepin,0.908,Haas 
+20,Robert Kubica,1.292,Alfa Romeo 
